@@ -1,0 +1,112 @@
+.catolog{
+    background: rgb(255, 255, 255);
+    margin-top: 35px;
+}
+.up{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.card{
+    margin-top: 31px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card img{
+    width: 72px;
+height: 59px;
+}
+.card p{
+    margin-top: 15px;
+}
+.das{
+    width: 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.das2{
+    display: flex;
+}
+.das img{
+    width: 40px;
+    height: 40px;
+}
+.card p{
+    width: 180px;
+    color: rgb(51, 51, 51);
+    font-family: SF Pro Display;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+/* -------------------------------------------------------------- */
+
+.time{
+    padding-top: 49px;
+    display: flex;
+    margin: 0 auto;
+    width: 1300px;
+}
+
+
+.weather{
+    margin: 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather .pro1{
+    width: 86px;
+height: 136px;
+}
+.weather .pro2{
+    width: 103px;
+height: 116px;
+}
+.weather .pro3{
+    width: 113px;
+height: 101px;
+}
+.weather .pro4{
+    width: 121px;
+height: 115px;
+}
+.weather .pro5{
+    width: 164px;
+height: 108px;
+}
+
+.info{
+    display: flex;
+    /* gap: 47px; */
+}
+.weather-left li{
+    width: 101px;
+}
+.info{
+    margin-top: 15px;
+}
+.info li{
+    list-style: none;
+    color: rgb(51, 51, 51);
+    font-family: SF Pro Display;
+    font-size: 14px;
+    font-weight: 400;
+    /* line-height: 23px; */
+    letter-spacing: 0%;
+    text-align: left;
+}
+.weather-right li{  
+    width: 121px;
+
+    text-align: right;
+}
