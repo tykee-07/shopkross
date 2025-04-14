@@ -1,0 +1,58 @@
+.banner{
+    padding: 20px 100px 0;
+    position: relative;
+}
+/* .ban{
+    position: relative;
+} */
+.ban img{
+    width: 1240px;
+    height: 400px;
+
+}
+.logo{
+    position: absolute;
+    top: 58%;
+    display: flex;
+    left: 16.43%;
+}
+.logo img{
+    width: 28.42px;
+    height: 27.93px;
+}
+.logo h3{
+    color: rgb(255, 255, 255);
+font-family: Cambria;
+font-size: 13.28px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: left;
+}
+.logo p{
+    color: rgb(0, 0, 0);
+font-family: SF Pro Display;
+font-size: 9.75px;
+font-weight: 300;
+line-height: 12px;
+letter-spacing: 10%;
+text-align: center;
+}
+.text{
+    position: absolute;
+    width: 1240px;
+    height: 400px;
+    padding: 76px 0 0 106px;
+    top: 20px;
+    background: linear-gradient(180.00deg, rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.09) 46.625%);
+}
+.text h2{
+    width: 400px;
+    color: rgb(255, 255, 255);
+font-family: SF Pro Display;
+font-size: 40px;
+font-weight: 800;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
